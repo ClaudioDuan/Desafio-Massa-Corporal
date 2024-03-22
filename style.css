@@ -1,0 +1,42 @@
+
+        body{
+            background: rgb(30, 196, 140);
+            text-align: center;
+        }
+        h1{
+            padding: 50px;
+            align-items: center;
+        }
+
+        div{
+            background: rgb(30, 126, 59);
+            height: 95px;
+            width: 300px;
+            color: aliceblue;
+            margin: auto;
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+            text-align: justify;
+            align-items: center;
+            text-align: center;
+            font-weight: bold;
+            font-size: 20px;
+            
+            
+        }
+        div p{
+            color: aliceblue;
+            padding: 20px;
+            font-weight: bolder;
+            font-size: 20px;
+            text-transform: uppercase;
+            
+        }
+
+        P{
+            color: black;
+            font-weight: bold;
+            text-align: center;
+        }
+    
